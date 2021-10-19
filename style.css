@@ -21,7 +21,7 @@ header {
 }
 
 .title {
-    font-size: 1em;
+    font-size: 1.25rem;
 }
 
 header p {
@@ -35,7 +35,7 @@ p>strong {
 }
 
 main>section {
-    background-color: rgba(206, 203, 203, 0.584);
+    background-color: hsl(0deg, 0%, 60%);
 }
 
 .max-width-wrapper {
@@ -45,7 +45,7 @@ main>section {
 }
 
 h2 {
-    font-size: .9em;
+    font-size: 1rem;
     vertical-align: middle;
 }
 
@@ -62,7 +62,7 @@ h2 {
     width: 45%;
     height: 40px;
     margin-left: -10px;
-    background-color: rgb(230, 200, 123);
-    border-bottom: solid 4px rgb(216, 147, 44);
+    background-color: hsl(45deg, 100%, 50%);
+    border-bottom: solid 4px hsl(45deg, 100%, 40%);
     padding-top: 10px;
 }
