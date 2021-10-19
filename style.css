@@ -40,7 +40,6 @@ main>section {
 
 .max-width-wrapper {
     display: inline-block;
-    margin: 20px auto;
     width: 100%;
 }
 
@@ -51,7 +50,8 @@ h2 {
 
 .card {
     display: block;
-    margin: 30px auto;
+    margin: 70px;
+    padding: 10px;
     background-color: #fff;
     height: 230px;
     width: 50%;
